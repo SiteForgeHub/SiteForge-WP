@@ -44,4 +44,5 @@ Link related issues when applicable
 
 
 Keep PRs small and easy to review
+
 By contributing, you agree that your work will be licensed under the project’s license.
