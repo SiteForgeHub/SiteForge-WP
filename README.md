@@ -7,11 +7,14 @@ REST API–driven multisite management
 JWT authentication
 
 Site lifecycle operations
+
 Domain & subdomain handling
+
 Automation-ready
-#Requirements
+
+# Requirements
 WordPress Multisite
+
 PHP 8.0+
+
 HTTPS recommended
-# Companion
-SiteForge Client — connects individual sites to the multisite API.
